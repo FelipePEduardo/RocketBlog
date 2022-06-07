@@ -9,7 +9,7 @@
 - [ CSS ]
 
 # Aplicação
-<p>O RockeBlog está disponível no <a href="">link</a> junto com projeto no <a href="https://www.figma.com/file/PQbDw638ohQPuiyeLDi2QV/DD-%2F-RocketBlog-(Copy)?node-id=3%3A2">figma</a></p>
+<p>O RockeBlog está disponível no <a href="https://felipepeduardo.github.io/RocketBlog/">link</a> junto com projeto no <a href="https://www.figma.com/file/PQbDw638ohQPuiyeLDi2QV/DD-%2F-RocketBlog-(Copy)?node-id=3%3A2">figma</a></p>
 
 # Contatos
 <p>Você vai me encontrar em qualquer uma das redes sociais abaixo </br>
